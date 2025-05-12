@@ -1,5 +1,5 @@
-## Hi there 👋
+# 👋 Hey there, I'm Shamveel P!
 
+Feel free to explore, but be warned—once you enter my repos, there’s no turning back! 🚀
 
-
-Keep it Clean 🙌
+![Visitor Badge](https://visitor-badge.laobi.icu/badge?page_id=aemmadi.aemmadi)
